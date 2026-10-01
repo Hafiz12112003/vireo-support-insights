@@ -1,0 +1,7 @@
+data/
+out/
+.venv/
+__pycache__/
+check_sheet.csv
+check_key.csv
+SUBMISSION_ANSWERS.md
